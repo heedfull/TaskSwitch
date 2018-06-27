@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSwitch.API", "TaskSwitch.API\TaskSwitch.API.csproj", "{C2A7DA76-7B53-49C8-89AF-FB8E4554FD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A7DA76-7B53-49C8-89AF-FB8E4554FD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A7DA76-7B53-49C8-89AF-FB8E4554FD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A7DA76-7B53-49C8-89AF-FB8E4554FD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A7DA76-7B53-49C8-89AF-FB8E4554FD42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
